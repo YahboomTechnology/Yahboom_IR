@@ -1,5 +1,5 @@
 {
-    "name": "Yahboom_IR",
+    "name": "Mbit_IR",
     "version": "3.0.0",
     "description": "Extension for YahBoom IR",
     "dependencies": {
@@ -15,10 +15,10 @@
         "RemoteIR.h",
         "Mbit_IR.ts",
         "infrared-receiver.ts",
-        "_locales/zh-cn/Yahboom_IR-strings.json",
-        "_locales/zh-cn/Yahboom_IR-jsdoc-strings.json",
-        "_locales/zh-tw/Yahboom_IR-strings.json",
-        "_locales/zh-tw/Yahboom_IR-jsdoc-strings.json"
+        "_locales/zh-cn/Mbit_IR-strings.json",
+        "_locales/zh-cn/Mbit_IR-jsdoc-strings.json",
+        "_locales/zh-tw/Mbit_IR-strings.json",
+        "_locales/zh-tw/Mbit_IR-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
