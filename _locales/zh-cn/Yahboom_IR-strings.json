@@ -1,0 +1,11 @@
+{
+  
+    "Mbit_IR.init|block": "连接红外接收器到引脚 %pin",
+    "Mbit_IR.onPressEvent|block": "当按钮 |%btn| 被按下时",
+    "makerbit.connectIrReceiver|block": "连接红外接收器到引脚 %pin",
+    "makerbit.onIrButton|block": "当按钮 | %button | %action",
+	"IrButtonAction.Pressed|block": "按下",
+	"IrButtonAction.Released|block": "松开"
+
+  }
+  
