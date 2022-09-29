@@ -8,7 +8,7 @@ modified by chengengyue
 #include <vector>
 #include "ReceiverIR.h"
 using namespace pxt;
-typedef vector<Action> vA;
+ typedef vector<Action> vA;
 
 enum class RemoteButton {
     Power = 0x0,
